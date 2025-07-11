@@ -9,6 +9,7 @@ export const Navbar = ({
       <ul>
         <li>Home</li>
         <li>About</li>
+        <li>Events</li>
         <li>Contact</li>
       </ul>
     </nav>
