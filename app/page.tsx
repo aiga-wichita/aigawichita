@@ -7,7 +7,9 @@ export default function Home()
       <Navbar />
 
     <main>
-      <div>Next.js on GitHub Pages</div>
+      <div>
+        <h1 className='text-8xl font-sans text-blue-600'> AIGA Wichita </h1>
+      </div>
     </main>
     </section>
     

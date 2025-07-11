@@ -5,8 +5,8 @@ export const Navbar = ({
 }) => 
 {
   return (
-    <nav>
-      <ul>
+    <nav className=" flex items-center justify-between flex-row">
+      <ul className="display flex flex-row gap-4">
         <li>Home</li>
         <li>About</li>
         <li>Events</li>
