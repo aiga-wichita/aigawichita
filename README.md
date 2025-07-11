@@ -1,1 +1,1 @@
-# aigawichita
+AIGA Wichita Github pages project
